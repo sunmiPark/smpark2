@@ -4,6 +4,6 @@
 	<li>Erlang</li>
 	<li>Python</li>
 	<li>Objective</li>
-	<li>javascript</li>
+	<li>ECMAScript</li>
 </ui>
 
